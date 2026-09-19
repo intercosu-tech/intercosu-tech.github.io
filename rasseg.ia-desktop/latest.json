@@ -1,10 +1,10 @@
 {
-  "notes": "Navegação SPA no sidebar: sem recarregar o layout completo.",
-  "pub_date": "2026-09-19T08:10:53.7137065Z",
   "version": "0.1.5",
+  "notes": "Atualização automática do RASSEG.IA Desktop",
+  "pub_date": "2026-09-19T09:16:19.3468108Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaHB5bjgvNTB2UERaMVZjTCszeXd2dFFDK0lPK2VVTWR6RnJHM1VKTHVlNFYxajBrUkNDekwwR1VlcVJFWjVZUGNPWmJSLzN5SUh5Yndid2FKbkF6bWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODA1NDQ5CWZpbGU6UkFTU0VHLklBIERlc2t0b3BfMC4xLjVfeDY0LXNldHVwLmV4ZQozMFFhNitOcHc0Zys1cmc1YkxUaXdlZ0pHNEs0L2pleW1teHdBSWFhQXJPUTF4ckt3SWNOVkJMVnNrdVpWV0hpYmJDbGRwcUh4OGJnV0ppMmpJMmxDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaG9aVkxFY091NDA2N3JxSk5RU3dmMEowT3VBTVhkRWhabkhWVXBzSkQ1K29TOHl0YjJDNDM5QWJHaHlPWDN3bHFMN3EzS0FWbzRuaDVrY0hxd0kzM0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODA5Mzc4CWZpbGU6UkFTU0VHLklBIERlc2t0b3BfMC4xLjVfeDY0LXNldHVwLmV4ZQo5VGo4ZnJYRHRRUGdpcXlEN0dpby9BOHFmRFdMWXVZOWE2YTcwbThsTGVrMDNVdlVMVDlGdFp3YW5WSUZyTkYza3BVMWR6eWtRY25pRHBxeFh3dXVBQT09Cg==",
       "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-Update.exe"
     }
   }
