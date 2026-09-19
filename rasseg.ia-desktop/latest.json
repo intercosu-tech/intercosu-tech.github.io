@@ -1,6 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Canal de atualização RASSEG.IA Desktop",
-  "pub_date": "2026-09-19T00:00:00Z",
-  "platforms": {}
+  "notes": "Navegação SPA no sidebar: sem recarregar o layout completo.",
+  "pub_date": "2026-09-19T08:10:53.7137065Z",
+  "version": "0.1.5",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaHB5bjgvNTB2UERaMVZjTCszeXd2dFFDK0lPK2VVTWR6RnJHM1VKTHVlNFYxajBrUkNDekwwR1VlcVJFWjVZUGNPWmJSLzN5SUh5Yndid2FKbkF6bWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODA1NDQ5CWZpbGU6UkFTU0VHLklBIERlc2t0b3BfMC4xLjVfeDY0LXNldHVwLmV4ZQozMFFhNitOcHc0Zys1cmc1YkxUaXdlZ0pHNEs0L2pleW1teHdBSWFhQXJPUTF4ckt3SWNOVkJMVnNrdVpWV0hpYmJDbGRwcUh4OGJnV0ppMmpJMmxDQT09Cg==",
+      "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-Update.exe"
+    }
+  }
 }
