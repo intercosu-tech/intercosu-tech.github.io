@@ -1,0 +1,14 @@
+{
+  "version": "0.1.5",
+  "published_at": "2026-09-25T15:30:15.3198509Z",
+  "signer": "RPJ SOFTWARE INNOVATION LIMITED",
+  "source_commit": "2d2d5f3deafc536e8ec1dd3277877238d4e37161",
+  "exe": {
+    "file": "RASSEGIA-Desktop-Windows.exe",
+    "sha256": "8ee70ea3e73f934336af32f73fa0650659b8bbb38309d26018c3b01b10ea08ca"
+  },
+  "msi": {
+    "file": "RASSEGIA-Desktop-Windows.msi",
+    "sha256": "135ec1b59b15c6cc217c36c37be0fcc796131eac0d1383d545ab4fde04f26e6e"
+  }
+}
