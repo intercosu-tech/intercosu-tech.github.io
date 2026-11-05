@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "notes": "Atualização automática do RASSEG.IA Desktop",
-  "pub_date": "2026-11-05T18:30:40.376Z",
+  "pub_date": "2026-11-05T20:02:08.601Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaGptTWFCVFN1UHl6VXJheEVGSGsrc3hHSXdhcVgvYWt5ZnEwYXV6TUxPS0NIUm5lQnB1RlIvNVQ2bHYvUHlZWWtmakpzS0tMTy9BWnVpUjZLZEliemdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAzNDM0CWZpbGU6UkFTU0VHLklBIERlc2t0b3BfMC4xLjlfeDY0LXNldHVwLmV4ZQplbG00ODhOYk13S2xFUmxWcndQc2JSSm9VdnE3NVFNckFSTVRROUtwYU5nVEJrUURYUC9NS2VFbDBxV0RiZ2RyMUZsKys1ZW90bVcvSWtGZ094VFJCdz09Cg==",
-      "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-Update-0.1.9.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaHNIRURHcW8xTnBZSHcrL1dXOVgxSW85R2dFU3hNc0RwVkllWFU5ZUpJN3VKbWtUVS9zSVlzUHJtTTZQcC91OVFRd1ZlbmJBem9ubGtaeUVCaVRudndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA4OTE5CWZpbGU6UkFTU0VHLklBIERlc2t0b3BfMC4xLjEwX3g2NC1zZXR1cC5leGUKQUJqNzAwUkpDK2h3Smx5WGppQnVHbmZXZlhKTGs4UDJRTHVzVnBaS3h4aGV3STRPc3Vwb0pWbVRIZUg4emRydXdqRllXS2loUHZ1MUtHWnU0eUJ6Q2c9PQo=",
+      "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-Update-0.1.10.exe"
     }
   }
 }
