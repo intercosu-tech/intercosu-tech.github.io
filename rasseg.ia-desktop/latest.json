@@ -1,19 +1,11 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.8",
   "notes": "Atualização automática do RASSEG.IA Desktop",
-  "pub_date": "2026-09-20T09:44:38.430Z",
+  "pub_date": "2026-11-05T17:11:24.845Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaGtsUU5sS1hwQ1JoQ1J3ZU9wQUJpcFowd3lZalQzWVN1K2pZeWdId05EVGZJeHhRNklOQjdsT3pnNFFUTklOVUN2cEVqZ084a0RuazhjdFJjRSt3TXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk3NDU0CWZpbGU6UkFTU0VHLklBIERlc2t0b3BfMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41CmRibm00WmJIRW9pYmgvVFR0bC9rNWRaYys4cmFsUytsd0lKTWtkb2NsYlRaNXhFbTd5bkhhUXhZVWd6R3N4aXN1bW5YWjZ4ajlJUUVyVjhxaDZCaUR3PT0K",
-      "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-Update.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaGdoekdTWnV4aVlCcklDTG9kdXdvd1NROWllOXA0aForanFQRVAyTnRVV0pKL1plYU9PbjdIdUxUdTlQY0hhM0xBd2ZmTnAveVJKdW9CbXZPNXJHWEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk3MTcwCWZpbGU6UkFTU0VHLklBIERlc2t0b3AuYXBwLnRhci5negl2ZXJzaW9uOjAuMS41CnAyd2ZUN2lUZy9pQVJNY1BvKzVPcjF0ODVQa3JKVlBPK1BCc250cUl1dTJCOUw1RkIvRCtKaUxxbHByRXhjMmRldzJ4b2laWXMvdEtMbzlVTlFDMkRnPT0K",
-      "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-macOS.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaGdoekdTWnV4aVlCcklDTG9kdXdvd1NROWllOXA0aForanFQRVAyTnRVV0pKL1plYU9PbjdIdUxUdTlQY0hhM0xBd2ZmTnAveVJKdW9CbXZPNXJHWEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk3MTcwCWZpbGU6UkFTU0VHLklBIERlc2t0b3AuYXBwLnRhci5negl2ZXJzaW9uOjAuMS41CnAyd2ZUN2lUZy9pQVJNY1BvKzVPcjF0ODVQa3JKVlBPK1BCc250cUl1dTJCOUw1RkIvRCtKaUxxbHByRXhjMmRldzJ4b2laWXMvdEtMbzlVTlFDMkRnPT0K",
-      "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGNXY0d0RzZBaGgrSDVwZGdobU1iclFuMG5zLzBENkl3bkQ4ZFlnVjc1enNxQklVOEpWbGp4dU5YZFVSWkl6NjVqRS9KOVUrYllCdjl1eUFLbXhqR3ZTZS9TSVo2WEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk4Njc3CWZpbGU6UkFTU0VHLklBIERlc2t0b3BfMC4xLjhfeDY0LXNldHVwLmV4ZQpkVk16Rkw2ZFg0ejhXSTRhbEhSSHNSd0F5YlJXTWg0aXZSZUxLWk5yc3hneDFrVFZxUWVwNVIwMkc5K1hobk84U0dVbVJ4clRWeHRYTmNCNlRmeWpEUT09Cg==",
+      "url": "https://intercosu-tech.github.io/rasseg.ia-desktop/RASSEGIA-Desktop-Update-0.1.8.exe"
     }
   }
 }
